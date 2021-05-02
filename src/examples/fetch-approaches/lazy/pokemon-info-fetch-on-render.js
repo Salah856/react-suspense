@@ -1,5 +1,3 @@
-// http://localhost:3000/isolated/examples/fetch-approaches/lazy/pokemon-info-fetch-on-render.js
-
 import * as React from 'react'
 import {
   fetchPokemon,
